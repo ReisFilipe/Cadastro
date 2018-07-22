@@ -1,0 +1,1445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"include",
+				"include_once"
+			],
+			[
+				"session",
+				"session_unset"
+			],
+			[
+				"que",
+				"querySelect"
+			],
+			[
+				"filter",
+				"filter_input"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"crt",
+				"crt_conta"
+			],
+			[
+				"n",
+				"nJuros"
+			],
+			[
+				"aa",
+				"aadd"
+			],
+			[
+				"aD",
+				"aDados"
+			],
+			[
+				"ep_",
+				"ep_desc"
+			],
+			[
+				"N",
+				"N"
+			],
+			[
+				"hlt",
+				"hlt_arquivo"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"by",
+				"BY"
+			],
+			[
+				"orde",
+				"ORDER"
+			],
+			[
+				"ord",
+				"order"
+			],
+			[
+				"itg_",
+				"itg_vlrcap"
+			],
+			[
+				"uni_cod",
+				"uni_codempr"
+			],
+			[
+				"clf_mate",
+				"clf_matempr"
+			],
+			[
+				"tit",
+				"tit_vcto"
+			],
+			[
+				"ada",
+				"aDadosEmpr"
+			],
+			[
+				"tem",
+				"temporary"
+			],
+			[
+				"c",
+				"cMensagem"
+			],
+			[
+				"adados",
+				"aDados"
+			],
+			[
+				"a",
+				"aFiltro"
+			],
+			[
+				"cpm",
+				"cpm_data"
+			],
+			[
+				"nnum",
+				"nNumpoc"
+			],
+			[
+				"nnu",
+				"nNumpoc"
+			],
+			[
+				"adad",
+				"aDados"
+			],
+			[
+				"aDad",
+				"aDadosEnvio"
+			],
+			[
+				"ver",
+				"Verarray"
+			],
+			[
+				"Lança",
+				"Lançamentos"
+			],
+			[
+				"aS",
+				"aSql"
+			],
+			[
+				"te",
+				"temp4"
+			],
+			[
+				"nli",
+				"nLinIni"
+			],
+			[
+				"Sqle",
+				"SqlExecSkill"
+			],
+			[
+				"memor",
+				"MemoWrit"
+			],
+			[
+				"mem",
+				"MemoWrit"
+			],
+			[
+				"rg_",
+				"rg_saldo"
+			],
+			[
+				"ap_",
+				"ap_mov"
+			],
+			[
+				"comando",
+				"comandoc1"
+			],
+			[
+				"cId",
+				"cIdade2"
+			],
+			[
+				"cI",
+				"cIdade1"
+			],
+			[
+				"ci",
+				"cIdade2"
+			],
+			[
+				"Sql",
+				"SQLArray"
+			],
+			[
+				"Empr",
+				"Empréstimos"
+			],
+			[
+				"str",
+				"substr"
+			],
+			[
+				"itg_vlr",
+				"itg_vlrprestam"
+			],
+			[
+				"cCmd",
+				"cCmdSql"
+			],
+			[
+				"SqlEx",
+				"SqlExecSkill"
+			],
+			[
+				"nN",
+				"nNumPoc"
+			],
+			[
+				"cTipo",
+				"cTipoReq"
+			],
+			[
+				"memo",
+				"memowrit"
+			],
+			[
+				"asql",
+				"aSql2"
+			],
+			[
+				"crt_",
+				"crt_conta"
+			],
+			[
+				"aDadosArq",
+				"aDadosArqEmpr"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"aEmp",
+				"aEmprLer"
+			],
+			[
+				"clf_",
+				"clf_conta"
+			],
+			[
+				"else",
+				"else"
+			],
+			[
+				"poa",
+				"poa_estado"
+			],
+			[
+				"arq",
+				"arquivos"
+			],
+			[
+				"tempora",
+				"TEMPORARY"
+			],
+			[
+				"ad",
+				"aDados"
+			],
+			[
+				"ccmd",
+				"cCmdSql"
+			],
+			[
+				"sql",
+				"SQLArray"
+			],
+			[
+				"cCm",
+				"cCmdSql"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"cC",
+				"cConta"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"aDados",
+				"aDadosEmpr"
+			],
+			[
+				"val",
+				"valtype"
+			],
+			[
+				"sis",
+				"sis_marca"
+			],
+			[
+				"AA",
+				"AAAA-MM-DD"
+			],
+			[
+				"clf_c",
+				"clf_cpfcgc"
+			],
+			[
+				"gera",
+				"GerarArqCCo"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"ai",
+				"aInad"
+			],
+			[
+				"ao",
+				"aoGets"
+			],
+			[
+				"cCod",
+				"cCodCli"
+			],
+			[
+				"cEx",
+				"cEXE"
+			],
+			[
+				"CPAS",
+				"cPastaPDF"
+			],
+			[
+				"ntotal",
+				"nTotInadAvl1"
+			],
+			[
+				"vera",
+				"verarray"
+			],
+			[
+				"aEm",
+				"aEmprestimo"
+			],
+			[
+				"Aina",
+				"aInad1"
+			],
+			[
+				"aIna",
+				"aInad1"
+			],
+			[
+				"aInad",
+				"aInad1"
+			],
+			[
+				"e",
+				"empty"
+			],
+			[
+				"if",
+				"if"
+			],
+			[
+				"Diá",
+				"DIÁRIO"
+			],
+			[
+				"alcada",
+				"alcada_max"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1949,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "consultas.php",
+			"settings":
+			{
+				"buffer_size": 518,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/footer.inc.php",
+			"settings":
+			{
+				"buffer_size": 367,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "banco_de_dados/create.php",
+			"settings":
+			{
+				"buffer_size": 1004,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "banco_de_dados/read.php",
+			"settings":
+			{
+				"buffer_size": 382,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/header.inc.php",
+			"settings":
+			{
+				"buffer_size": 362,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/menu.inc.php",
+			"settings":
+			{
+				"buffer_size": 459,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "banco_de_dados/conexao.php",
+			"settings":
+			{
+				"buffer_size": 157,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "materialize/css/materialize.min.css",
+			"settings":
+			{
+				"buffer_size": 141877,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Sisabr.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Sisabr.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Sisabr.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 41.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"to",
+				"TodoReview: Open Files"
+			],
+			[
+				"te",
+				"Material Theme: Extras"
+			],
+			[
+				"materia",
+				"Material Theme: Extras"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 170.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/cadastro",
+		"/D/xampp/htdocs/cadastro/banco_de_dados",
+		"/D/xampp/htdocs/cadastro/include",
+		"/D/xampp/htdocs/cadastro/materialize",
+		"/D/xampp/htdocs/cadastro/materialize/css"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/cadastro/banco_de_dados/read.php",
+		"/D/xampp/htdocs/cadastro/include/header.inc.php",
+		"/D/xampp/htdocs/cadastro/include/footer.inc.php",
+		"/D/xampp/htdocs/cadastro/cadastro.sublime-project",
+		"/D/xampp/htdocs/cadastro/banco_de_dados/create.php",
+		"/D/xampp/htdocs/cadastro/banco_de_dados/conexao.php",
+		"/D/xampp/htdocs/cadastro/banco_de_dados/update.php",
+		"/D/xampp/htdocs/cadastro/banco_de_dados/delete.php",
+		"/C/desenv/fivewin/sisabr/sbr_a3.prg",
+		"/C/desenv/fivewin/sisabr/sbr_i7.prg",
+		"/C/desenv/fivewin/sisabr/sbr_g8a.prg",
+		"/C/desenv/fivewin/sisabr/sbr_g2b.prg",
+		"/C/desenv/fivewin/funcoes/udf_sql.prg",
+		"/C/desenv/fivewin/sisabr/udf_vers.prg",
+		"/C/desenv/fivewin/sisabr/SBR_A1.PRG",
+		"/C/desenv/fivewin/sisabr/sbr_a1b.prg",
+		"/C/desenv/fivewin/sisabr/sbr_a2.prg",
+		"/C/desenv/fivewin/sisabr/sbr_g2h.prg",
+		"/C/desenv/fivewin/sisabr/sbr_g3.prg",
+		"/C/desenv/fivewin/sisabr/SBR_C1.PRG",
+		"/C/desenv/fivewin/sisabr/SBR_E1B.PRG",
+		"/C/desenv/fivewin/sisabr/sbr_h2.prg",
+		"/C/desenv/fivewin/sisabr/sbr_b9a.prg",
+		"/C/desenv/fivewin/sisabr/sbr_j2f.prg",
+		"/C/desenv/fivewin/sisabr/sbr_h3e.prg",
+		"/C/desenv/fivewin/sisabr/sbr_g1.prg",
+		"/C/desenv/fivewin/sisabr/sbr_c4a.prg",
+		"/C/desenv/fivewin/funcoes/Udf_data.prg",
+		"/C/desenv/fivewin/sisabr/sbr_f8.prg",
+		"/C/desenv/fivewin/sisabr/sbr_b6d.prg",
+		"/C/desenv/fivewin/sisabr/sbr_c6.prg",
+		"/C/desenv/fivewin/sisabr/sbr_h7.prg",
+		"/C/desenv/fivewin/sisabr/sbr_h3b.prg",
+		"/C/desenv/fivewin/sisabr/SBR_H3B4021.PRG",
+		"/C/desenv/fivewin/sisabr/udf_ep_sbr.prg",
+		"/C/desenv/fivewin/sisabr/sbr_f2a.prg",
+		"/C/desenv/fivewin/sisabr/SBR_B1C.PRG",
+		"/C/desenv/fivewin/sisabr/sbr_c8.prg",
+		"/C/desenv/fivewin/sisabr/sbr_b1h.prg",
+		"/C/desenv/fivewin/funcoes/udf_aces.prg",
+		"/C/desenv/fivewin/funcoes/ERRSYSW.PRG",
+		"/C/desenv/fivewin/sisabr/UDF_SBR.PRG",
+		"/C/desenv/fivewin/funcoes/oRetorno.prg",
+		"/C/desenv/fivewin/funcoes/Udf_arq.prg",
+		"/C/desenv/fivewin/sisabr/sbr_f2c.prg",
+		"/C/desenv/fivewin/sisabr/SBR_B1B.PRG",
+		"/C/desenv/fivewin/sisabr/sbr_a6.prg",
+		"/C/desenv/fivewin/sisabr/sbr_j2b2.prg",
+		"/C/desenv/fivewin/sisabr/sbr_h3a1Siape.prg",
+		"/C/desenv/fivewin/sisabr/SBR_H3Bsiap.PRG",
+		"/C/desenv/fivewin/sisabr/sbr_h04338.prg",
+		"/C/desenv/fivewin/sisabr/sbr_h0.prg",
+		"/D/Shell Script/pagekit.py",
+		"/C/desenv/fivewin/sisabr/udf_cb_sbr.prg",
+		"/C/desenv/fivewin/sisabr/sbr_h3b - Copia.prg",
+		"/C/desenv/fivewin/sisabr/sbr_a1d.prg",
+		"/C/desenv/fivewin/sisabr/SBR_A7.PRG",
+		"/C/desenv/fivewin/sisabr/sbr_b1h2.prg",
+		"/C/desenv/fivewin/funcoes/Udf_arq_ant.prg",
+		"/C/desenv/fivewin/funcoes/udf_sisacob.prg",
+		"/C/desenv/fivewin/sisabr/sbr_f1a.prg",
+		"/C/desenv/fivewin/sisabr/sbr_j2b1.prg",
+		"/C/desenv/fivewin/funcoes/UDF_VET.PRG",
+		"/C/desenv/fivewin/sisabr/sbr_b4a.prg",
+		"/C/desenv/fivewin/sisabr/SBR_B3H.PRG",
+		"/C/desenv/fivewin/sisabr/fr/sbr_b3h1.fr3",
+		"/C/desenv/fivewin/funcoes/UDF_MISC.PRG",
+		"/C/desenv/fivewin/sisabr/sbr_h24276.prg",
+		"/C/desenv/fivewin/sisabr/sbr_h0_4338.prg",
+		"/D/testes python/SQL-Scanner-master/scansql.py",
+		"/C/desenv/fivewin/sisabr/sbr_h14276.prg",
+		"/C/desenv/fivewin/sisabr/sbr_c4e.prg",
+		"/C/desenv/fivewin/sisabr/SBR_C2.PRG",
+		"/C/desenv/fivewin/sisabr/sbr_a1c.prg",
+		"/D/testes python/bot.py",
+		"/C/desenv/fivewin/sisabr/SBR_A4.PRG",
+		"/C/desenv/fivewin/sisabr/sbr_g2d.prg",
+		"/C/desenv/fivewin/sisabr/sbr_h1.prg",
+		"/C/desenv/fivewin/sisabr/sbr_h3a4259.prg",
+		"/C/desenv/fivewin/funcoes/UDF_REL.PRG",
+		"/C/desenv/fivewin/sisabr/sbr__e5.prg",
+		"/C/desenv/fivewin/sisabr/sbr_h3a4276.prg",
+		"/C/desenv/fivewin/sisabr/sbr_b6b.prg",
+		"/C/desenv/fivewin/sisabr/sbr_a0.prg",
+		"/C/desenv/fivewin/sisabr/sbr_j3.prg",
+		"/C/desenv/fivewin/sisabr/sbr_g2e.prg",
+		"/C/desenv/fivewin/sisabr/SBR_B1I.PRG",
+		"/C/desenv/fivewin/funcoes/errsysfw.prg",
+		"/C/desenv/fivewin/sisabr/SBR_B5F.PRG",
+		"/C/desenv/fivewin/sisabr/sbr_h1_novo.prg",
+		"/C/desenv/fivewin/sisabr/udf_sup3.prg",
+		"/C/desenv/fivewin/sisabr/sbr__b1f.prg",
+		"/C/desenv/fivewin/sisabr/sbr_b2g.prg",
+		"/C/desenv/fivewin/sisabr/sbr_consultas.prg",
+		"/C/desenv/fivewin/funcoes/REL_RPV.PRG",
+		"/C/desenv/fivewin/funcoes/oboleto.prg",
+		"/C/desenv/fivewin/sisabr/sbr__b1b4.prg",
+		"/C/desenv/fivewin/sisabr/sbr_g2a3.prg",
+		"/C/desenv/fivewin/sisabr/sbr_b2d.prg",
+		"/C/desenv/fivewin/sisabr/sbr_b1j.prg",
+		"/C/desenv/fivewin/sisabr/sbr_b2c.prg",
+		"/C/desenv/fivewin/sisabr/sbr_b9c.prg",
+		"/C/desenv/fivewin/sisabr/sbr__b4c.prg",
+		"/C/desenv/fivewin/sisabr/sbr_b3c.prg",
+		"/C/desenv/fivewin/sisabr/sbr__b1d.prg",
+		"/C/desenv/fivewin/sisabr/sbr_i1.prg",
+		"/C/desenv/fivewin/sisabr/codsql/CobrancaInadimplencia.pcd",
+		"/C/desenv/fivewin/sisabr/sbr_b1g.prg",
+		"/C/desenv/fivewin/sisabr/sbr_b1f.prg",
+		"/C/desenv/fivewin/sisabr/sbr_b1e.prg",
+		"/C/desenv/fivewin/sisabr/sbr_b1d.prg",
+		"/C/desenv/fivewin/sisabr/sbr_b1d3.prg",
+		"/C/desenv/fivewin/sisabr/sbr_c7.prg",
+		"/C/desenv/fivewin/sisabr/sbr__b4f.prg",
+		"/C/desenv/fivewin/sisabr/sbr_h14236.prg",
+		"/C/desenv/fivewin/sisabr/sbr__b2a.prg",
+		"/C/desenv/fivewin/sisabr/SBR_B1A.PRG",
+		"/C/desenv/fivewin/sisabr/sbr_a9.prg",
+		"/C/desenv/fivewin/sisabr/sbr_a8.prg",
+		"/C/desenv/fivewin/sisabr/SBR_A5.PRG",
+		"/C/desenv/fivewin/sisabr/sbr_a2c.prg",
+		"/C/desenv/fivewin/sisabr/sbr_a2d.prg",
+		"/C/desenv/fivewin/sisabr/sisabr.prg",
+		"/C/desenv/fivewin/funcoes/udf_config.prg",
+		"/C/desenv/fivewin/sisabr/consulte/consulte.prg",
+		"/C/desenv/fivewin/sisabr/sbr_b3g.prg",
+		"/C/Users/Filipe/Desktop/sisa_use_Crediuna.sql",
+		"/C/desenv/fivewin/sisabr/sbr_a1j.prg"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			". '\"",
+			"\"' .",
+			"\"",
+			"SESSION",
+			"red",
+			"email",
+			"nome"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1949,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								351,
+								351
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "consultas.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								387
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "include/footer.inc.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "banco_de_dados/create.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								23
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "banco_de_dados/read.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								382,
+								382
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "include/header.inc.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "include/menu.inc.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "banco_de_dados/conexao.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "materialize/css/materialize.min.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 141877,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								184
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cadastro.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sbr_g8a",
+				"sisabr\\sbr_g8a.prg"
+			],
+			[
+				"sbr_c1",
+				"sisabr\\SBR_C1.PRG"
+			],
+			[
+				"udf_vers",
+				"sisabr\\udf_vers.prg"
+			],
+			[
+				"sbr_i7",
+				"sisabr\\sbr_i7.prg"
+			],
+			[
+				"sbr_a3",
+				"sisabr\\sbr_a3.prg"
+			],
+			[
+				"sbr_g2h",
+				"sisabr\\sbr_g2h.prg"
+			],
+			[
+				"sbr_e1",
+				"sisabr\\SBR_E1B.PRG"
+			],
+			[
+				"sbr_h2",
+				"sisabr\\sbr_h2.prg"
+			],
+			[
+				"sbr_c8",
+				"sisabr\\sbr_c8.prg"
+			],
+			[
+				"sbr_g3",
+				"sisabr\\sbr_g3.prg"
+			],
+			[
+				"sbr_a1b",
+				"sisabr\\sbr_a1b.prg"
+			],
+			[
+				"udf_dat",
+				"funcoes\\Udf_data.prg"
+			],
+			[
+				"sbr_c4a",
+				"sisabr\\sbr_c4a.prg"
+			],
+			[
+				"sbr_f2",
+				"sisabr\\sbr_f2c.prg"
+			],
+			[
+				"",
+				"sisabr\\sbr_g1.prg"
+			],
+			[
+				"sbr_g1",
+				"sisabr\\sbr_g1.prg"
+			],
+			[
+				"h2",
+				"sisabr\\sbr_h2.prg"
+			],
+			[
+				"h0",
+				"sisabr\\sbr_h0.prg"
+			],
+			[
+				"h3e",
+				"sisabr\\sbr_h3e.prg"
+			],
+			[
+				"sbr_e1b",
+				"sisabr\\SBR_E1B.PRG"
+			],
+			[
+				"sbr_a1d",
+				"sisabr\\sbr_a1d.prg"
+			],
+			[
+				"sbr_j2",
+				"sisabr\\sbr_j2b2.prg"
+			],
+			[
+				"sbr_h0",
+				"sisabr\\sbr_h0.prg"
+			],
+			[
+				"sbr_c4",
+				"sisabr\\sbr_c4a.prg"
+			],
+			[
+				"udf_ver",
+				"sisabr\\udf_vers.prg"
+			],
+			[
+				"sbr_h7",
+				"sisabr\\sbr_h7.prg"
+			],
+			[
+				"sbr_g2b",
+				"sisabr\\sbr_g2b.prg"
+			],
+			[
+				"sbr_f1",
+				"sisabr\\sbr_f1a.prg"
+			],
+			[
+				"sbr_b3h",
+				"sisabr\\SBR_B3H.PRG"
+			],
+			[
+				"sbr_b3h1",
+				"sisabr\\fr\\sbr_b3h1.fr3"
+			],
+			[
+				"sbr_h3b",
+				"sisabr\\sbr_h3b.prg"
+			],
+			[
+				"sbr_b4a",
+				"sisabr\\sbr_b4a.prg"
+			],
+			[
+				"sbr_g",
+				"sisabr\\sbr_g1.prg"
+			],
+			[
+				"sbr_c2",
+				"sisabr\\SBR_C2.PRG"
+			],
+			[
+				"sbr_c4e",
+				"sisabr\\sbr_c4e.prg"
+			],
+			[
+				"SBR_A4",
+				"sisabr\\SBR_A4.PRG"
+			],
+			[
+				"sbr_h3e",
+				"sisabr\\sbr_h3e.prg"
+			],
+			[
+				"sbr_h3bsia",
+				"sisabr\\SBR_H3Bsiap.PRG"
+			],
+			[
+				"sbr_a1c",
+				"sisabr\\sbr_a1c.prg"
+			],
+			[
+				"sbr_j2b2",
+				"sisabr\\sbr_j2b2.prg"
+			],
+			[
+				"udf_",
+				"sisabr\\udf_vers.prg"
+			],
+			[
+				"sbr_a2",
+				"sisabr\\sbr_a2.prg"
+			],
+			[
+				"sbr_j3",
+				"sisabr\\sbr_j3.prg"
+			],
+			[
+				"sbr_b1i",
+				"sisabr\\SBR_B1I.PRG"
+			],
+			[
+				"sbr_g2",
+				"sisabr\\sbr_g2e.prg"
+			],
+			[
+				"udf_su",
+				"sisabr\\udf_sup3.prg"
+			],
+			[
+				"sbr_c",
+				"sisabr\\SBR_C1.PRG"
+			],
+			[
+				"sbr_a0",
+				"sisabr\\sbr_a0.prg"
+			],
+			[
+				"sbr_b1j",
+				"sisabr\\sbr_b1j.prg"
+			],
+			[
+				"c8",
+				"sisabr\\sbr_c8.prg"
+			],
+			[
+				"udf_sbr",
+				"sisabr\\UDF_SBR.PRG"
+			],
+			[
+				"sisabr.prg",
+				"sisabr\\sisabr.prg"
+			],
+			[
+				"udf_sup",
+				"sisabr\\udf_sup3.prg"
+			],
+			[
+				"sbr_h1n",
+				"sisabr\\sbr_h1_novo.prg"
+			],
+			[
+				"sbr_i1",
+				"sisabr\\sbr_i1.prg"
+			],
+			[
+				"sbr_h3a0",
+				"sisabr\\sbr_h3a0.prg"
+			],
+			[
+				"sbr_g7d4",
+				"sisabr\\sbr_g7d4.prg"
+			],
+			[
+				"sbr_g7",
+				"sisabr\\sbr_g7b.prg"
+			],
+			[
+				"sbr_g5",
+				"sisabr\\sbr_g5.prg"
+			],
+			[
+				"udf",
+				"sisabr\\udf_vers.prg"
+			],
+			[
+				"sbr_b5",
+				"sisabr\\SBR_B5.PRG"
+			],
+			[
+				"sbr_b6d",
+				"sisabr\\sbr_b6d.prg"
+			],
+			[
+				"sbr_g2c",
+				"sisabr\\sbr_g2c.prg"
+			],
+			[
+				"sbr_h6",
+				"sisabr\\sbr_h6.prg"
+			],
+			[
+				"sbr_f8",
+				"sisabr\\sbr_f8.prg"
+			],
+			[
+				"sbr_a1",
+				"sisabr\\sbr_a1c.prg"
+			],
+			[
+				"sbr_b3b",
+				"sisabr\\sbr_b3b.prg"
+			],
+			[
+				"sbr_h14",
+				"sisabr\\sbr_h14236.prg"
+			],
+			[
+				"udf_v",
+				"sisabr\\udf_vers.prg"
+			],
+			[
+				"sbr_g2e",
+				"sisabr\\sbr_g2e.prg"
+			],
+			[
+				"sbr_b2f",
+				"sisabr\\sbr_b2f.prg"
+			],
+			[
+				"sbr_h1",
+				"sisabr\\sbr_h14276.prg"
+			],
+			[
+				"sbr_h3",
+				"sisabr\\sbr_h3b4278.prg"
+			],
+			[
+				"sbr_c3",
+				"sisabr\\sbr_c3.prg"
+			],
+			[
+				"sbr_g8",
+				"sisabr\\sbr_g8a.prg"
+			],
+			[
+				"sbr_b1h",
+				"sisabr\\sbr_b1h.prg"
+			],
+			[
+				"sbr_f4",
+				"sisabr\\sbr_f4.prg"
+			],
+			[
+				"udf_mis",
+				"funcoes\\UDF_MISC.PRG"
+			],
+			[
+				"udf_vet",
+				"funcoes\\UDF_VET.PRG"
+			],
+			[
+				"sbr_h3b.prg",
+				"sisabr\\sbr_h3b.prg"
+			],
+			[
+				"udf_ve",
+				"sisabr\\udf_vers.prg"
+			],
+			[
+				"udf_m",
+				"funcoes\\UDF_MISC.PRG"
+			],
+			[
+				"udf_a",
+				"funcoes\\Udf_arq.prg"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
